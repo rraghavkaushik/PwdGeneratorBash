@@ -5,7 +5,7 @@ A simple, secure command-line password generator written in Bash.
 ## Quick Start for Mac
 
 #### 1. Clone the repository:
-    git clone https://github.com/yourusername/bash-password-generator.git
+    git clone https://github.com/rraghavkaushik/PwdGeneratorBash.git
 
 #### 2. Navigate to the source directory:
     cd PwdGeneratorBash/src
@@ -24,7 +24,7 @@ A simple, secure command-line password generator written in Bash.
 ## Quick Start for Windows
 
 #### 1. Clone the repository:
-    git clone https://github.com/yourusername/bash-password-generator.git
+    git clone https://github.com/rraghavkaushik/PwdGeneratorBash.git
 
 #### 2. Navigate to the source directory:
     cd PwdGeneratorBash\src
