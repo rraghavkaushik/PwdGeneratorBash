@@ -1,0 +1,24 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Bash
+*.sh.x
+
+# Logs
+*.log
+
+# User-specific files
+*.bak
+*.tmp
+
+# Directory for temporary files
+temp/
+
+# Any compiled binaries
+*.out
